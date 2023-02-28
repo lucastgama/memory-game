@@ -20,7 +20,7 @@
 O projeto tem como finalidade melhorar o conhecimento em Javascript com utilização de funções e metodos nativos da linguagem sem a utilização qualquer tipo de biblioteca.
 </p>
 <p align="justify">
-A ideia do projeto está vinculado com a escolha de dois objetos e comparar se são parecidos, caso os objetos escolidos sejam parecidos o sistema remove o event listener deles.</p>
+A ideia do projeto está vinculado com a escolha de dois objetos e comparar se são parecidos, caso os objetos escolhidos sejam parecidos o sistema remove o event listener deles e adicionam pontos para o usuário, caso não sejam parecidos ambos os objetos retornam para seu estado inicial.</p>
 
 ##
 
