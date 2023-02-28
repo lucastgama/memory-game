@@ -1,6 +1,9 @@
-<h1>Jogo da Memória</h1>
+<h1 align="center">Jogo da Memória</h1>
 
-<hr>
+<figure>
+  <img style="width:250px;" src="https://user-images.githubusercontent.com/50726344/221895284-b7be376d-5a1e-4c4b-bcb5-c42254253265.png" alt="Imagem do Jogo finalizado">
+</figure>
+
 
 <p align="center">
    <img src="http://img.shields.io/static/v1?label=STATUS&message=Finalizado&color=RED&style=for-the-badge" #vitrinedev/>
@@ -9,7 +12,7 @@
 ### Tópicos
 
 - [Descrição do projeto](#descrição-do-projeto)
-- [Metodos e funções](#metodos-e-funçoes)
+- [Metodos e funções](#metodos-e-funções)
 
 ## Descrição do projeto
 
@@ -23,17 +26,16 @@ A ideia do projeto está vinculado com a escolha de dois objetos e comparar se s
 
 ## Metodos e funções
 
-.querySelector()
-.Math.random()
-.length()
-.createElement()
-.setAttribute()
-.append()
-.getAttribute()
-.push()
-setTimeout()
-.querySelectorAll()
-removeEventListener()
-.textContent()
-
+- .querySelector()
+- .Math.random()
+- .length()
+- .createElement()
+- .setAttribute()
+- .append()
+- .getAttribute()
+- .push()
+- setTimeout()
+- .querySelectorAll()
+- removeEventListener()
+- .textContent()
 ##
